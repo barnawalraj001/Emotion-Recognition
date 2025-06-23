@@ -45,7 +45,7 @@ A deep learning-based facial emotion classifier that can detect **7 emotions** f
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/emotion-recognition.git
+git clone https://github.com/barnawalraj001/Emotion-Recognition.git
 cd emotion-recognition
 ```
 ## 💻 Setup & Installation
